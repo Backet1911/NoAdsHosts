@@ -1,8 +1,8 @@
 Backet1911 hosts domain list file - block advertise domain
 
 Script for *WRT and some linux\unix systems:
-# Осторожно, если вы используете hosts файл для назначения имени машинам, то вам следует настроить копирование ваших записей в примечании
-# Attention, if you use the hosts file for the name of the destination machine, then you should set up your accounts in note
+Осторожно, если вы используете hosts файл для назначения имени машинам, то вам следует настроить копирование ваших записей в примечании!
+Attention, if you use the hosts file for the name of the destination machine, then you should set up your accounts in note!
 ------------------------------------------
 
 #!/bin/sh
