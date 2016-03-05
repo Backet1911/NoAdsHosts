@@ -5,7 +5,7 @@ Attention, if you use the hosts file for the name of the destination machine, th
 
 #!/bin/sh
 cp /etc/hosts /etc/hosts.backup
-wget -o "" /tmp/hosts.raw
+wget -o "https://raw.githubusercontent.com/Backet1911/NoAdsHosts/master/hosts" /tmp/hosts.raw
 rm /etc/hosts
 cat /tmp/hosts.raw >>/etc/hosts
 #раскомментируйте эту строку, если вы используете hosts файл.
